@@ -1,0 +1,11 @@
+\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\UC_EmotionLabor.dll
+\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\UC_EmotionLabor.pdb
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.csproj.AssemblyReference.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.Properties.Resources.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_EmotionLabor.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.csproj.GenerateResource.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.dll.licenses
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.csproj.CoreCompileInputs.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.csproj.CopyComplete
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\UC_EmotionLabor.pdb

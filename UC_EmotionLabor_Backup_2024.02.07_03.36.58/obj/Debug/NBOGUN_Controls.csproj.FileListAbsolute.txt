@@ -1,0 +1,72 @@
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.AssemblyReference.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Properties.Resources.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_EmotionLabor.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.GenerateResource.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.CoreCompileInputs.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_Jaehaeja.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.CopyComplete
+\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\NBOGUN_Controls.dll
+\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\NBOGUN_Controls.pdb
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.dll.licenses
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.pdb
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmCodeJaehaeja.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_ChkjnDate.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_EduItem.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmCodeEduItem.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaUpmuDamdang.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmSaupjaUpmuDamdang.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_HealthUp.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaGumjinDataPreYear.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_AnjunBogunRenewal.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_BagiCode.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmDamdang.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaWeewonhoi.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_DangerSealzoneCode.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaDangerPyeongga.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SealzoneDangerPyeongga.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_DockBasic.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_SignDataSync.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmDangerSealzoneExample.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaCardBagi.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_OverVisit.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmGongjung.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_JidoCode.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_SangtaeCodeKeyword.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmJidoSearch.resources
+C:\Users\ProDesk\source\repos\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_JidoCodeKeyword.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.AssemblyReference.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Properties.Resources.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmCodeEduItem.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmCodeJaehaeja.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmDamdang.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmDangerSealzoneExample.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmGongjung.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmJidoSearch.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.Sub.frmSaupjaUpmuDamdang.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_AnjunBogunRenewal.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_BagiCode.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_DangerSealzoneCode.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_JidoCode.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_JidoCodeKeywordSetting.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_OverVisit.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_SangtaeCodeKeyword.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_BONBU_SignDataSync.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_ChkjnDate.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_DockBasic.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_EduItem.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_EmotionLabor.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_HealthUp.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_Jaehaeja.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaCardBagi.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaDangerPyeongga.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaGumjinDataPreYear.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaUpmuDamdang.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SaupjaWeewonhoi.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN.UC_SealzoneDangerPyeongga.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.GenerateResource.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.dll.licenses
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.CoreCompileInputs.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.pdb
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\UC_EmotionLabor\obj\Debug\NBOGUN_Controls.csproj.CopyComplete

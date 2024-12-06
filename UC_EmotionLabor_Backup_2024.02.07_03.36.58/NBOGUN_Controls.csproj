@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49C6C5BB-2BBD-4937-BA82-1F31AE540901}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NBOGUN</RootNamespace>
+    <AssemblyName>NBOGUN_Controls</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>\\192.168.101.14\d%24\NewOHIS\BOGUN64DLL\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NBOGUN">
+      <HintPath>\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\NBOGUN.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.RadDock, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2013Dark, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.VisualStudio2012Light, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Diagrams.Core, Version=2021.1.325.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2021.1.326.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Progress\Telerik UI for WinForms R1 2021\Bin40\TelerikCommon.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmCodeEduItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmCodeEduItem.Designer.cs">
+      <DependentUpon>frmCodeEduItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmCodeJaehaeja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmCodeJaehaeja.designer.cs">
+      <DependentUpon>frmCodeJaehaeja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmDamdang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmDamdang.Designer.cs">
+      <DependentUpon>frmDamdang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmDangerSealzoneExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmDangerSealzoneExample.Designer.cs">
+      <DependentUpon>frmDangerSealzoneExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmGongjung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmGongjung.Designer.cs">
+      <DependentUpon>frmGongjung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmJidoSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmJidoSearch.Designer.cs">
+      <DependentUpon>frmJidoSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub\frmSaupjaUpmuDamdang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub\frmSaupjaUpmuDamdang.Designer.cs">
+      <DependentUpon>frmSaupjaUpmuDamdang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telerik\WinControls\Export\SpreadExportRenderer.cs" />
+    <Compile Include="UC_AnjunBogunRenewal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AnjunBogunRenewal.Designer.cs">
+      <DependentUpon>UC_AnjunBogunRenewal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_BagiCode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_BagiCode.Designer.cs">
+      <DependentUpon>UC_BONBU_BagiCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_DangerSealzoneCode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_DangerSealzoneCode.Designer.cs">
+      <DependentUpon>UC_BONBU_DangerSealzoneCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_JidoCode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_JidoCode.Designer.cs">
+      <DependentUpon>UC_BONBU_JidoCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_JidoCodeKeywordSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_JidoCodeKeywordSetting.Designer.cs">
+      <DependentUpon>UC_BONBU_JidoCodeKeywordSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_OverVisit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_OverVisit.Designer.cs">
+      <DependentUpon>UC_BONBU_OverVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_SangtaeCodeKeyword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_SangtaeCodeKeyword.Designer.cs">
+      <DependentUpon>UC_BONBU_SangtaeCodeKeyword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BONBU_SignDataSync.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_BONBU_SignDataSync.Designer.cs">
+      <DependentUpon>UC_BONBU_SignDataSync.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ChkjnDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ChkjnDate.Designer.cs">
+      <DependentUpon>UC_ChkjnDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_DockBasic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_DockBasic.Designer.cs">
+      <DependentUpon>UC_DockBasic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_EduItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_EduItem.Designer.cs">
+      <DependentUpon>UC_EduItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_EmotionLabor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_EmotionLabor.designer.cs">
+      <DependentUpon>UC_EmotionLabor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_HealthUp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_HealthUp.Designer.cs">
+      <DependentUpon>UC_HealthUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Jaehaeja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Jaehaeja.Designer.cs">
+      <DependentUpon>UC_Jaehaeja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SaupjaCardBagi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SaupjaCardBagi.Designer.cs">
+      <DependentUpon>UC_SaupjaCardBagi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SaupjaDangerPyeongga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SaupjaDangerPyeongga.Designer.cs">
+      <DependentUpon>UC_SaupjaDangerPyeongga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SaupjaGumjinDataPreYear.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SaupjaGumjinDataPreYear.Designer.cs">
+      <DependentUpon>UC_SaupjaGumjinDataPreYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SaupjaUpmuDamdang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SaupjaUpmuDamdang.Designer.cs">
+      <DependentUpon>UC_SaupjaUpmuDamdang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SaupjaWeewonhoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SaupjaWeewonhoi.Designer.cs">
+      <DependentUpon>UC_SaupjaWeewonhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SealzoneDangerPyeongga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SealzoneDangerPyeongga.Designer.cs">
+      <DependentUpon>UC_SealzoneDangerPyeongga.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmCodeEduItem.resx">
+      <DependentUpon>frmCodeEduItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmCodeJaehaeja.resx">
+      <DependentUpon>frmCodeJaehaeja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmDamdang.resx">
+      <DependentUpon>frmDamdang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmDangerSealzoneExample.resx">
+      <DependentUpon>frmDangerSealzoneExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmGongjung.resx">
+      <DependentUpon>frmGongjung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmJidoSearch.resx">
+      <DependentUpon>frmJidoSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub\frmSaupjaUpmuDamdang.resx">
+      <DependentUpon>frmSaupjaUpmuDamdang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AnjunBogunRenewal.resx">
+      <DependentUpon>UC_AnjunBogunRenewal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_BagiCode.resx">
+      <DependentUpon>UC_BONBU_BagiCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_DangerSealzoneCode.resx">
+      <DependentUpon>UC_BONBU_DangerSealzoneCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_JidoCode.resx">
+      <DependentUpon>UC_BONBU_JidoCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_JidoCodeKeywordSetting.resx">
+      <DependentUpon>UC_BONBU_JidoCodeKeywordSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_OverVisit.resx">
+      <DependentUpon>UC_BONBU_OverVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_SangtaeCodeKeyword.resx">
+      <DependentUpon>UC_BONBU_SangtaeCodeKeyword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_BONBU_SignDataSync.resx">
+      <DependentUpon>UC_BONBU_SignDataSync.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ChkjnDate.resx">
+      <DependentUpon>UC_ChkjnDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_DockBasic.resx">
+      <DependentUpon>UC_DockBasic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_EduItem.resx">
+      <DependentUpon>UC_EduItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_EmotionLabor.resx">
+      <DependentUpon>UC_EmotionLabor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_HealthUp.resx">
+      <DependentUpon>UC_HealthUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Jaehaeja.resx">
+      <DependentUpon>UC_Jaehaeja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SaupjaCardBagi.resx">
+      <DependentUpon>UC_SaupjaCardBagi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SaupjaDangerPyeongga.resx">
+      <DependentUpon>UC_SaupjaDangerPyeongga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SaupjaGumjinDataPreYear.resx">
+      <DependentUpon>UC_SaupjaGumjinDataPreYear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SaupjaUpmuDamdang.resx">
+      <DependentUpon>UC_SaupjaUpmuDamdang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SaupjaWeewonhoi.resx">
+      <DependentUpon>UC_SaupjaWeewonhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SealzoneDangerPyeongga.resx">
+      <DependentUpon>UC_SealzoneDangerPyeongga.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_down.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

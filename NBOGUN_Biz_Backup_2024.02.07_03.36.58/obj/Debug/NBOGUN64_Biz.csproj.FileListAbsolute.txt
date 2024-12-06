@@ -1,0 +1,26 @@
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\NBOGUN.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\NBOGUN.pdb
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\Telerik.WinControls.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\TelerikCommon.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\Telerik.WinControls.xml
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\bin\Debug\Telerik.WinControls.UI.xml
+\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\NBOGUN.dll
+\\192.168.101.14\d$\NewOHIS\BOGUN64DLL\NBOGUN.pdb
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN64_Biz.csproj.AssemblyReference.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN64_Biz.csproj.CoreCompileInputs.cache
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN64_Biz.csproj.CopyComplete
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN.dll
+C:\Users\ProDesk\source\repos\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN.pdb
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN64_Biz.csproj.AssemblyReference.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN64_Biz.csproj.CoreCompileInputs.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN64_Biz.csproj.CopyComplete
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN64\NBOGUN_Biz\obj\Debug\NBOGUN.pdb
+C:\Users\worud\Documents\EmotionalLabor\NBOGUN_Biz_Backup_2024.02.07_03.36.58\obj\Debug\NBOGUN64_Biz.csproj.AssemblyReference.cache
+C:\Users\worud\Documents\EmotionalLabor\NBOGUN_Biz_Backup_2024.02.07_03.36.58\obj\Debug\NBOGUN64_Biz.csproj.CoreCompileInputs.cache
+C:\Users\worud\Documents\EmotionalLabor\NBOGUN_Biz_Backup_2024.02.07_03.36.58\obj\Debug\NBOGUN64.AB89FE7A.Up2Date
+C:\Users\worud\Documents\EmotionalLabor\NBOGUN_Biz_Backup_2024.02.07_03.36.58\obj\Debug\NBOGUN.dll
+C:\Users\worud\Documents\EmotionalLabor\NBOGUN_Biz_Backup_2024.02.07_03.36.58\obj\Debug\NBOGUN.pdb

@@ -1,0 +1,98 @@
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Test.exe.config
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Test.exe
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Test.pdb
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\NBOGUN.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\NBOGUN_Controls.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\TelerikCommon.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\TelerikExport.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\NBOGUN_Controls.pdb
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\TelerikExport.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.Form1.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.exe.licenses
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.exe
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.pdb
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\kangseungduck\Documents\Visual Studio 2022\Projects\NBOGUN\Solution1\Test\bin\Debug\NBOGUN.pdb
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Test.exe.config
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Test.exe
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Test.pdb
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\NBOGUN.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\NBOGUN_Controls.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\TelerikCommon.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\TelerikExport.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\NBOGUN.pdb
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\NBOGUN_Controls.pdb
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\TelerikExport.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.Form1.resources
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.exe.licenses
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.exe
+C:\Users\worud\Documents\EmotionalLabor\Test\obj\Debug\Test.pdb
