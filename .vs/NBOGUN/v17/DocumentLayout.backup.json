@@ -8,10 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{49C6C5BB-2BBD-4937-BA82-1F31AE540901}|..\\NBOGUN64\\UC_EmotionLabor\\NBOGUN_Controls.csproj|c:\\users\\worud\\documents\\nbogun64\\uc_emotionlabor\\uc_emotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|c:\\users\\worud\\documents\\emotionallabor\\test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|solutionrelative:test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +78,13 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T01:03:50.576Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -94,19 +96,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T01:02:51.201Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Test\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.Designer.cs",
-              "RelativeToolTip": "Test\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:59:52.127Z",
-              "EditorCaption": ""
             }
           ]
         }
