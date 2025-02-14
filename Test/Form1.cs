@@ -24,7 +24,7 @@ namespace Test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Biz.Instance.DHCenter = "06";
+            Biz.Instance.DHCenter = "00";
 
             Biz.Instance.UserID = "2009112";
             Biz.Instance.UserName = "강승덕";
