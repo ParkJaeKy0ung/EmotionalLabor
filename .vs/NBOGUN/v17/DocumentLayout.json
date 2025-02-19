@@ -9,14 +9,14 @@
       "AbsoluteMoniker": "D:0:0:{49C6C5BB-2BBD-4937-BA82-1F31AE540901}|..\\NBOGUN64\\UC_EmotionLabor\\NBOGUN_Controls.csproj|c:\\users\\worud\\documents\\nbogun64\\uc_emotionlabor\\uc_emotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\bizemotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\biz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|C:\\Users\\worud\\Documents\\EmotionalLabor\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\bizemotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 182,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Biz.cs",
               "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
               "RelativeDocumentMoniker": "..\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
               "RelativeToolTip": "..\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
-              "ViewState": "AgIAACQCAAAAAAAAAAAkwC8CAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAPYBAAAAAAAAAAAIwB4CAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:28:19.244Z",
               "IsPinned": true,
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "BizEmotionLabor.cs",
               "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
               "RelativeDocumentMoniker": "..\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
-              "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs*",
-              "RelativeToolTip": "..\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs*",
-              "ViewState": "AgIAAEEGAAAAAAAAAAAcwEsGAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
+              "RelativeToolTip": "..\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
+              "ViewState": "AgIAAL4EAAAAAAAAAAAcwMcEAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:07:24.751Z",
               "IsPinned": true,
@@ -112,7 +112,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs",
               "RelativeDocumentMoniker": "Test\\Form1.cs",
@@ -121,8 +121,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T08:03:38.381Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -132,7 +131,7 @@
               "RelativeDocumentMoniker": "..\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "RelativeToolTip": "..\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
-              "ViewState": "AgIAABECAAAAAAAAAAA7wJUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANMJAAAAAAAAAAAAwOQJAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T08:03:27.229Z",
               "EditorCaption": ""
