@@ -3,16 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\worud\\Documents\\EmotionalLabor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49C6C5BB-2BBD-4937-BA82-1F31AE540901}|..\\NBOGUN64\\UC_EmotionLabor\\NBOGUN_Controls.csproj|c:\\users\\worud\\documents\\nbogun64\\uc_emotionlabor\\uc_emotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49C6C5BB-2BBD-4937-BA82-1F31AE540901}|..\\NBOGUN64\\UC_EmotionLabor\\NBOGUN_Controls.csproj|c:\\users\\worud\\documents\\nbogun64\\uc_emotionlabor\\uc_sealzonedangerpyeongga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\bizsealzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49C6C5BB-2BBD-4937-BA82-1F31AE540901}|..\\NBOGUN64\\UC_EmotionLabor\\NBOGUN_Controls.csproj|c:\\users\\worud\\documents\\nbogun64\\uc_emotionlabor\\uc_emotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\biz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C6C5BB-2BBD-4937-BA82-1F31AE540901}|..\\NBOGUN64\\UC_EmotionLabor\\NBOGUN_Controls.csproj|c:\\users\\worud\\documents\\nbogun64\\uc_emotionlabor\\uc_emotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\bizemotionlabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6214E2-8F6E-4455-ACFF-EBDA6FFD8AD5}|..\\NBOGUN64\\NBOGUN_Biz\\NBOGUN_Biz.csproj|c:\\users\\worud\\documents\\nbogun64\\nbogun_biz\\biz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|C:\\Users\\worud\\Documents\\EmotionalLabor\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6568DE06-D317-49AB-A6A1-513380A051F6}|Test\\Test.csproj|C:\\Users\\worud\\Documents\\EmotionalLabor\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,8 +35,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 182,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 170,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -36,7 +46,7 @@
               "RelativeDocumentMoniker": "..\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
               "RelativeToolTip": "..\\NBOGUN64\\NBOGUN_Biz\\Biz.cs",
-              "ViewState": "AgIAAPYBAAAAAAAAAAAIwB4CAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:28:19.244Z",
               "IsPinned": true,
@@ -44,17 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BizEmotionLabor.cs",
               "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
               "RelativeDocumentMoniker": "..\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
               "RelativeToolTip": "..\\NBOGUN64\\NBOGUN_Biz\\BizEmotionLabor.cs",
-              "ViewState": "AgIAAL4EAAAAAAAAAAAcwMcEAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAM0CAAAAAAAAAAAuwLMCAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:07:24.751Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -63,10 +72,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -98,54 +103,89 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 218,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs",
-              "RelativeDocumentMoniker": "Test\\Form1.cs",
-              "ToolTip": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs",
-              "RelativeToolTip": "Test\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T08:03:38.381Z",
-              "IsPinned": true
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UC_EmotionLabor.cs",
               "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "RelativeDocumentMoniker": "..\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "RelativeToolTip": "..\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
-              "ViewState": "AgIAANMJAAAAAAAAAAAAwOQJAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAG8HAAAAAAAAAAAMwBkHAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T08:03:27.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs",
+              "RelativeToolTip": "Test\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:14:15.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\worud\\Documents\\EmotionalLabor\\Test\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Test\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:14:13.669Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_SealzoneDangerPyeongga.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_SealzoneDangerPyeongga.cs",
+              "RelativeDocumentMoniker": "..\\NBOGUN64\\UC_EmotionLabor\\UC_SealzoneDangerPyeongga.cs",
+              "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_SealzoneDangerPyeongga.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\NBOGUN64\\UC_EmotionLabor\\UC_SealzoneDangerPyeongga.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:49:06.207Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BizSealZone.cs",
+              "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizSealZone.cs",
+              "RelativeDocumentMoniker": "..\\NBOGUN64\\NBOGUN_Biz\\BizSealZone.cs",
+              "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\NBOGUN_Biz\\BizSealZone.cs",
+              "RelativeToolTip": "..\\NBOGUN64\\NBOGUN_Biz\\BizSealZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:48:32.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UC_EmotionLabor.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "RelativeDocumentMoniker": "..\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "..\\NBOGUN64\\UC_EmotionLabor\\UC_EmotionLabor.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T01:02:51.201Z",
+              "WhenOpened": "2025-04-21T04:22:01.096Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]

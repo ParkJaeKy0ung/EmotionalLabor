@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,10 +27,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -62,11 +58,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -76,7 +72,7 @@
               "RelativeDocumentMoniker": "NBOGUN_Biz_Backup_2024.02.07_03.36.58\\Biz.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\EmotionalLabor\\NBOGUN_Biz_Backup_2024.02.07_03.36.58\\Biz.cs",
               "RelativeToolTip": "NBOGUN_Biz_Backup_2024.02.07_03.36.58\\Biz.cs",
-              "ViewState": "AgIAACUIAAAAAAAAAAAQwCMIAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAPMHAAAAAAAAAAAIwCMIAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T01:04:31.322Z",
               "EditorCaption": ""
@@ -95,7 +91,7 @@
               "RelativeDocumentMoniker": "NBOGUN_Biz_Backup_2024.02.07_03.36.58\\BizEmotionLabor.cs",
               "ToolTip": "C:\\Users\\worud\\Documents\\EmotionalLabor\\NBOGUN_Biz_Backup_2024.02.07_03.36.58\\BizEmotionLabor.cs",
               "RelativeToolTip": "NBOGUN_Biz_Backup_2024.02.07_03.36.58\\BizEmotionLabor.cs",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAAAO4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T01:04:35.017Z",
               "EditorCaption": ""

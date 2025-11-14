@@ -26,9 +26,9 @@ namespace Test
         {
             Biz.Instance.DHCenter = "00";
 
-            Biz.Instance.UserID = "2009112";
-            Biz.Instance.UserName = "강승덕";
-            Biz.Instance.UserEmailID = "kukuro@kiha21.or.kr";
+            Biz.Instance.UserID = "2024511";
+            Biz.Instance.UserName = "박재경";
+            Biz.Instance.UserEmailID = "2024511@kiha21.or.kr";
 
             _bar.AssociatedControl = radPageViewPage1;
             this.uC_BUSEOJANG_SangtaeDataUpdate1.SetWaitingBar = _bar;
